@@ -9,4 +9,6 @@ At the start of the game $100 virtual money will be given to the user. After pre
 - Up - increasing the bet by $0.25
 - Down - reducing the bet by $0.25
 
+<img width="799" height="976" alt="kép" src="https://github.com/user-attachments/assets/039f513a-2b6a-4633-8138-823cc562b692" />
+
 Note: The Display Scaling feature of Windows might interfere with the proper running of the game. This was made for the resolution of 1920×1080, with 100% scaling. Running the game with other resolution might cause improper performance during the runtime.
